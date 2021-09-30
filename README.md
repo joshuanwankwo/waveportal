@@ -13,5 +13,3 @@ npx hardhat node
 node scripts/sample-script.js
 npx hardhat help
 ```
-
-# Address: 0xe2D0481A36B388d9344a48E1f8086B2A988d9024
